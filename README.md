@@ -1,4 +1,5 @@
-docker run -d -p 8080:3000 yagoodma/nodejsserver:1.6
+docker run -d -p 8080:3000 yagoodma/nodejsserver:1.6  
+
 In browser http://localhost:8080/ you should see 
 Hello World
 
